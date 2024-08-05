@@ -2,7 +2,7 @@
 
 - Go play the real Wordle [here](https://www.powerlanguage.co.uk/wordle/)
 - Read the story behind it [here](https://www.nytimes.com/2022/01/03/technology/wordle-word-game-creator.html)
-- Try a demo of this clone project [here]()
+- Try a demo of this clone project [here](https://wordle-using-react.vercel.app/)
 
 _Inspiration:_
 This game is an open source clone of the immensely popular online word guessing game Wordle. Like many others all over the world, I saw the signature pattern of green, yellow, and white squares popping up all over social media and the web and had to check it out. After a few days of play, I decided it would be great for my learning to try to rebuild Wordle in React!
@@ -12,7 +12,7 @@ I used a combination of React, Typescript, and Tailwind to build this Wordle Clo
 
 ```
 WORDS[Math.floor((NOW_IN_MS - GAME_EPOCH_IN_MS) / ONE_DAY_IN_MS)]
-```.
+```
 
 _To Run Locally:_
 Clone the repository and perform the following command line actions:
